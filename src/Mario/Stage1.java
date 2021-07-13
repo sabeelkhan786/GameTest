@@ -8,6 +8,10 @@ public class Stage1 {
 		System.out.println("Super Mario");
 		
 		System.out.println("Game Start");
+		
+		System.out.println("Mario Jumping throgh the wall");
+		
+		System.out.println("Kill the dragon");
 
 	}
 
