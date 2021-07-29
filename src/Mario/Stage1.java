@@ -14,6 +14,8 @@ public class Stage1 {
 		System.out.println("Kill the dragon");
 		
 		System.out.println("Collect the coins");
+		
+		System.out.println("I create webhook in jenkins for the first time");
 
 	}
 
