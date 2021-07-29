@@ -16,7 +16,7 @@ public class Stage1 {
 		System.out.println("Collect the coins");
 		
 		System.out.println("I create webhook in jenkins for the first time");
-		System.out.println("third commit for webhook");
+		System.out.println("forth commit for webhook");
 
 	}
 
